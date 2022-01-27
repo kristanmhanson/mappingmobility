@@ -13,26 +13,6 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1445.4813232421875,163.43067932128906,925.1075439453125,729.1345672607422"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#ba6cb8ab-cd69-42ee-96cd-ef13f1de03f3"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Harvesting pelargoniums",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:2768.298828125,169.19459533691406,874.67333984375,654.2037811279297"
       }
     },
