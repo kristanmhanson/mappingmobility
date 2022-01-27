@@ -18,25 +18,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#7f7157b7-2acb-4315-8325-00b0cdb82f99"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Field of pelargoniums",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:178.86215209960938,196.5731658935547,874.6733703613281,645.5578765869141"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#7fecd443-31d7-435d-af9a-8f7c8c081e3b"
   }
 ]
