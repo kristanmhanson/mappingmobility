@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Field of pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://raw.githubusercontent.com/kristanmhanson/mappingmobility/31a49f0/Chiris_Factory.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:188.7665252685547,199.3126220703125,866.8235626220703,648.6231689453125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#95fcd052-6128-477a-8293-7020834e7306"
+  }
+]
