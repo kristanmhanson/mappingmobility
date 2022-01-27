@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Pelargonium distillation",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:17.60124397277832,1806.8880615234375,1341.3854503631592,982.9840087890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ee9bde0e-8a1f-4a5e-8e6a-9a1d1d8de222"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Pelargonium supply at factory",
         "purpose": "commenting"
       }
