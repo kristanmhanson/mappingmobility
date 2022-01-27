@@ -84,6 +84,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Pelargonium treatment, distillery in operation",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://raw.githubusercontent.com/kristanmhanson/mappingmobility/31a49f0/Chiris_Factory.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1957.7686767578125,1072.888916015625,793.9749755859375,643.3614501953125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4cb21f12-e0c2-4fae-9b2e-e8bbbe885435"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Pelargonium treatment, arrival at distillery",
         "purpose": "commenting"
       }
