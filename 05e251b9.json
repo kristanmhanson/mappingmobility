@@ -78,5 +78,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#95fcd052-6128-477a-8293-7020834e7306"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, arrival at distillery",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://raw.githubusercontent.com/kristanmhanson/mappingmobility/31a49f0/Chiris_Factory.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1081.9788818359375,1065.4512939453125,777.240234375,647.080322265625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#21242725-ea18-43a9-8279-3cb3f5032468"
   }
 ]
