@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Pelargonium supply at factory",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:37.85474395751953,1034.532470703125,974.0630416870117,738.699951171875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#000be7d3-074c-45a3-9730-ac470638c6b9"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Cutting rose-scented pelargoniums",
         "purpose": "commenting"
       }
