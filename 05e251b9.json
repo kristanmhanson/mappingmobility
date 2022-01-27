@@ -24,6 +24,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Harvesting pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://raw.githubusercontent.com/kristanmhanson/mappingmobility/31a49f0/Chiris_Factory.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2671.065673828125,51.33082962036133,1065.451171875,901.8217582702637"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#47cd3c30-8a4e-44f1-9f9f-0ed121a8a453"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Field of pelargoniums",
         "purpose": "commenting"
       }
