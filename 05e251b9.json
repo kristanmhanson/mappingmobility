@@ -78,5 +78,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#d37cabec-e540-4f1d-97ed-e8e195dddf76"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, arrival at distillery",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1142.3599853515625,1136.61767578125,664.9716796875,499.083251953125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#82703af1-f721-406c-86b9-90285f1aa6fa"
   }
 ]
