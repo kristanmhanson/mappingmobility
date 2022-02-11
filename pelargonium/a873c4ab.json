@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
-    "total": 3,
-    "modified": "2022-02-11T17:16:30.294434"
+    "total": 4,
+    "modified": "2022-02-11T17:17:27.767773"
   },
   "startIndex": 0,
   "items": [
@@ -71,6 +71,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/a873c4ab/f142a840",
       "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium supply at factory</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:23.727542877197266,1028.310302734375,1003.7598838806152,738.61572265625"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/1e0452a9",
+      "seq": 3
     }
   ]
 }
