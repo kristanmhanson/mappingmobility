@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
-    "total": 7,
-    "modified": "2022-02-11T17:19:07.566857"
+    "total": 8,
+    "modified": "2022-02-11T17:19:45.111546"
   },
   "startIndex": 0,
   "items": [
@@ -155,6 +155,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/a873c4ab/6ec5bed3",
       "seq": 6
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium distillation</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:6.05225133895874,1804.4964599609375,1359.4628853797913,972.8927001953125"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/2a35698f",
+      "seq": 7
     }
   ]
 }
