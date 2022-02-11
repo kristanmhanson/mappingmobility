@@ -8,6 +8,22 @@
 	about="Q146118"
        layout="vtl">
 
+### Test
+
+Around 1850, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to present-day Algeria in order to cultivate and produce aromatic oil from it.[^ref30] Under French rule since 1830, Algeria was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed to cultivate, harvest, and prepare the plants for distillation. Perfumers selected pelargoniums because certain kinds, namely _Pelargonium graveolens_, have a sweet aroma similar to roses, making them a cost-effective alternative to the real thing. Pelargonium oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits, and seeds of the plant. It should be noted that not all pelargoniums smell, and some scented-leave varieties give off unpleasant, pungent odors akin to fish or he-goat.[^ref31]
+<param ve-entity eid="Q262" title="Algeria">
+<param ve-entity eid="Q173705" title="Grasse">
+<param ve-entity eid="Q34687" title="Rosa" aliases="roses">
+<param ve-entity eid="Q164306" title="Pelargonium graveolens">
+<param ve-image primary fit="contain" manifest="https://iiif.juncture-digital.org/manifest/209bf27e4a92ae60ccdae71de5a2dbae9c4020d3bbb36d4b9e2b0a5ff662e370">
+
+The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) founded by Antoine Chiris in 1768, provides a case study on the production of pelargonium oils.[^ref32] The artisanal factory specialized in manufacturing soaps, ointments, scented waters, and perfumes from aromatic plants. In the nineteenth century, Chiris expanded into a global, industrial company with many farms in colonized territories. For example, it used colonial labor to grow “Rose geranium” or _Pelargonium graveolens_ in Boufarik, Algeria. In 1865, the company built a cutting-edge 3,000 square meter factory in Boufarik’s Saint-Marguerite domain, growing pelargoniums along with orange and eucalyptus trees.[^ref33] The group of photographs, shows the Chiris complex and its workers engaging in cultivating, harvesting, and preparing pelargoniums for making rose-scented oils and other products.
+<param ve-entity eid="Q2344308" title="Boufarik">
+<param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
+<param ve-entity eid="Q81513" title="Citrus" aliases="orange">
+<param ve-image fit="contain" title="Pelargonium fields and floricultural industry, Algeria. Anonymous, no publication date [1900s-1910s?], black and white photograph from glass plate" attribution="Source gallica.bnf.fr / BnF" url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/52bc9a2/pelargonium/Chiris%20Factory.png">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
+
 ### What’s in a Name?
 
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red blooms and showy foliage, this cheerful plant always adorned the dining table and dominated the garden in “a blaze of color” at his country home [Gad’s Hill Place,](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/) in Kent.[^ref2] Attendees at his public readings could always count on seeing the scarlet flower displayed in his jacket buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, recalls her sister saying to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
