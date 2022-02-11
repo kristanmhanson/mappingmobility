@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
-    "total": 9,
-    "modified": "2022-02-11T17:20:12.952606"
+    "total": 10,
+    "modified": "2022-02-11T17:20:45.388868"
   },
   "startIndex": 0,
   "items": [
@@ -197,6 +197,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/a873c4ab/fc74fa9c",
       "seq": 8
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium treatment, waste</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2660.310302734375,1827.489501953125,1080.67236328125,934.091796875"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/dee6d77e",
+      "seq": 9
     }
   ]
 }
