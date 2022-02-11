@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
+    "total": 1,
+    "modified": "2022-02-11T17:12:07.959489"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<div><span class=\"pl-s\">Field of pelargoniums<br></span></div>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:124.24238586425781,122.1290512084961,998.1746063232422,797.6926040649414"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/8c460778",
+      "seq": 0
+    }
+  ]
+}
