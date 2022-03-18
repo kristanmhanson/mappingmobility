@@ -1,22 +1,14 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Mapping Mobility"
+       author="Kristan M. Hanson"
+       banner="https://upload.wikimedia.org/wikipedia/commons/2/2a/1870_Hachette_Pocket_Map_of_Paris%2C_France_-_Geographicus_-_NouveauParis-hachette-1870.jpg" 
        layout="vertical">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Mobility or the degree to which certain kinds of women were, or were not, able to walk freely in public is a central issue of gender history for many scholars who work on the nineteenth century. This issue is especially thorny for historians who study cultural representations of modern women produced in the latter half of the century. In the case of French literature and art in particular, scholars regularly invoke the separate spheres model to interpret how portrayals of women responded to gendered spatial practices. This model construes the metropolis as divided spatially along gender and class lines that also affected one’s freedom of movement: Although men were able to move freely within and across the public and the private spheres, women were restricted mainly to the latter, which could take the form of a home or brothel depending on their social status. Still, scholars agree that this paradigm fails to account for the experiences of a whole range of actual women, though my concern here is with those who transported plants.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
@@ -24,9 +16,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+In this paper, I will present a project that uses historical geocoding and digital mapping to explore the gender-historical issue of mobility as it relates to Parisian art, society, and plant culture. The project maps the locations shown in paintings of Parisian women, ornamental plants, and urban spaces and those of flower markets and florist shops published in print sources. These maps visualize sites where an all-female labor force distributed and then sold fresh flora to a mostly female clientele who transported it to domestic and other spaces. My discussion of the project will clarify how paintings and maps chart an expanded field of mobility for women who moved plants. It will also propose a new rhizomatic model for studying gendered spatial practices that is structured by the same logic as the centrifugal urban plan and open grid of Paris.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
