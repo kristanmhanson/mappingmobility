@@ -11,8 +11,7 @@
 ### Tackling A Thorny Issue
 
 Mobility or the degree to which certain kinds of women were, or were not, able to walk alone freely in public is a central issue of gender history.[^1] It is also an especially thorny issue for historians who study cultural representations of modern women city dwellers that were produced in Western Europe during the second half of the nineteenth century.[^2] During that period, a patriarchal ideology of separate spheres deemed it appropriate for genteel white women to spend most of their daily lives in the domestic realm and conversely, for men to oversee, participate in, and even roam freely about the public realm. Yet that neat division of space along gendered lines is not always represented in art objects.
-<param ve-compare sync="true" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/438009/796161/main-image">
-<param ve-compare manifest="https://api.artic.edu/api/v1/artworks/20684/manifest.json">
+<param ve-image manifest="https://collectionapi.metmuseum.org/api/collection/v1/iiif/438009/796161/main-image">
 {#paragraph1}
 
 Present-day historians agree, however, that this dichotomous paradigm fails to account for the varied experiences of real women.[^3] Nor can it account, as they maintain, for the rich meanings of artistic, literary, or cultural engagements with women’s mobility. Yet the separate spheres model still holds enduring significance for our understanding of the past. That is so in part because there are few surviving firsthand accounts of walking in the city that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities can offer new approaches for using qualitative open-source data to enrich the study of art that visually articulates cultural beliefs about gender and mobility.[^4]
