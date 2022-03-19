@@ -17,6 +17,7 @@ Mobility or the degree to which certain kinds of women were, or were not, able t
 
 Present-day historians agree, however, that this dichotomous paradigm fails to account for the varied experiences of real women.[^3] Nor can it account, as they maintain, for the rich meanings of artistic, literary, or cultural engagements with women’s mobility. Yet the separate spheres model still holds enduring significance for our understanding of the past. That is so in part because there are few surviving firsthand accounts of walking in the city that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities can offer new approaches for using qualitative open-source data to enrich the study of art that visually articulates cultural beliefs about gender and mobility.[^4]
 <param ve-image region="1090,1437,2209,2030" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458118z/manifest.json">
+<param ve-map center="Q1543046" zoom="15" label="Boulevards of Paris">
 {#paragraph2}
 
 ### Mobility in Parisian Art
