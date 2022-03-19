@@ -6,7 +6,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/2/2a/1870_Hachette_Pocket_Map_of_Paris%2C_France_-_Geographicus_-_NouveauParis-hachette-1870.jpg" 
        layout="vertical">
 
-## Digital Approaches to Studying Art, Gendered Spatial Practices, and Plant Distribution Networks
+## Digital Approaches to Study Art, Gendered Spatial Practices, and Plant Distribution Networks
 
 ### Tackling A Thorny Issue
 
