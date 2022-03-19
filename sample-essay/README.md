@@ -41,13 +41,6 @@ In the 1870s and 1880s, the flower seller’s favored customers were upper-middl
        url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
 {#paragraph4}
 
-<param ve-image 
-       label="Marie-François Firmin-Girard, The Flower Seller on the Pont Royal with the Louvre beyond, Paris, 1872, oil on canvas, 69.8 × 93.9 cm" 
-       attribution="Austriacus, Wikimedia Commons"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
-{#paragraph5}
-
 ### Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
@@ -55,12 +48,12 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
-{#paragraph6}
+{#paragraph5}
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
-{#paragraph7}
+{#paragraph6}
 
 ## References
 
