@@ -15,23 +15,23 @@ Mobility or the degree to which certain kinds of women were, or were not, able t
 {#paragraph1}
 
 Although present-day historians agree that that dichotomous paradigm fails to account for the varied experiences of real women and the rich meanings of their portrayals in art, literature, and culture, it nevertheless holds enduring significance for our understanding of the past. That is so because there are few surviving firsthand accounts of walking that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities offer innovative tools for using qualitative historical data to generate new frameworks to study art that engaged with gendered spatial practices and societal beliefs about mobility.
-<param ve-image fit="contain"
-       url="https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/aze_carg034866_001.jpg?itok=qN2G-iUj">
+<param ve-image region="635,1216,538,508" url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458118z/f1/full/2150,/0/native.jpg">
        {#paragraph2}
 
 ### Mobility in Parisian Art of the 1870s
 
 My concern here is with the gender-historical issue of mobility as it pertains to visual representations of modern women who are shown transporting bouquets, fresh cut flowers, and potted plants in Parisian urban spaces.[^1]
+<param ve-image fit="contain"
+       url="https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/aze_carg034866_001.jpg?itok=qN2G-iUj">
+       {#paragraph3}
+
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
-       {#paragraph3}
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
 {#paragraph4}
 
 ### Multiple viewers
@@ -42,6 +42,11 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 {#paragraph5}
+
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+<param ve-map center="Q36600" zoom="11" prefer-geojson>
+{#paragraph6}
 
 ## References
 
