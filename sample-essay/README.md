@@ -6,7 +6,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/2/2a/1870_Hachette_Pocket_Map_of_Paris%2C_France_-_Geographicus_-_NouveauParis-hachette-1870.jpg" 
        layout="vertical">
 
-## A Thorny Issue for Gender-Historical Studies
+## Tackling A Thorny Issue
 
 Mobility or the degree to which certain kinds of women were, or were not, able to walk freely in public is a central issue of gender history. It is also an especially thorny one for historians who study cultural representations of modern women city dwellers that were produced in Western Europe during the second half of the nineteenth century. During that period, a patriarchal ideology of separate spheres deemed it proper for genteel white women of the upper-middle classes to spend their days confined within the domestic realm and for men to participate in and even be free to roam about the public one. Although present-day historians agree that that dichotomous paradigm fails to account for the varied experiences of real women and the rich meanings of their portrayals in art, literature, and culture, it nevertheless holds enduring significance for our understanding of the past. That is so because there are few surviving firsthand accounts of walking that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities offer innovative tools for using qualitative historical data to generate visualizations and such interactive mappings can provide, as I will show, an exciting new framework to study art, gendered spatial practices, and plant distribution networks.
 <param ve-image 
