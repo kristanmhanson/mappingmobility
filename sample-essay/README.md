@@ -14,13 +14,13 @@ Mobility or the degree to which certain kinds of women were, or were not, able t
 <param ve-image region="1067,1543,2040,1876" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84581090/manifest.json">
 {#paragraph1}
 
-Present-day historians agree, however, that this dichotomous paradigm fails to account for the varied experiences of real women.[^3] Nor can it, as they maintain, account for the rich meanings of artistic, literary, or cultural engagements with gender mobility. Yet the separate spheres model still holds enduring significance for our understanding of the past. That is so in part because there are few surviving firsthand accounts of walking in the city that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities can offer new approaches for using qualitative data to enrich the study of art that responds to gendered spatial practices and cultural beliefs about gender and mobility.
+Present-day historians agree, however, that this dichotomous paradigm fails to account for the varied experiences of real women.[^3] Nor can it, as they maintain, account for the rich meanings of artistic, literary, or cultural engagements with gender mobility. Yet the separate spheres model still holds enduring significance for our understanding of the past. That is so in part because there are few surviving firsthand accounts of walking in the city that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities can offer new approaches for using qualitative data to enrich the study of art that responds to gendered spatial practices and cultural beliefs about gender and mobility.[^4]
 <param ve-image region="1090,1437,2209,2030" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458118z/manifest.json">
 {#paragraph2}
 
 ### Mobility in Parisian Art
 
-My concern here is with the gender-historical issue of mobility as it pertains to late nineteenth-century visual representations of modern women who are shown with easily-transportable bouquets, fresh cut flowers, or potted plants at real Parisian sites. 
+My concern here is with the gender-historical issue of mobility as it pertains to late nineteenth-century visual representations of modern women who are shown with easily-transportable bouquets, fresh cut flowers, or potted plants at real Parisian sites.[^4][^5]
 <param ve-image fit="contain"
         label="Charles Maurand, after Marie-François Firmin-Girard, The Flower Seller, 1872, engraving, 17.3 × 24.3 cm, after a painting exhibited at the Salon of 1872" 
        attribution="Musée Carnavalet, Histoire de Paris"
@@ -28,7 +28,7 @@ My concern here is with the gender-historical issue of mobility as it pertains t
        url="https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/aze_carg034866_001.jpg?itok=qN2G-iUj">
        {#paragraph3}
 
-This painting of an itinerant flower seller who markets a bouquet to a pedestrian-shopper and her lady’s maid, for example, raises vital questions about the gender-historical issue of mobility. To what degree did actual women participate in supplying and distributing real plants in 1870s Paris? Where did they do so, and what social, cultural, and economic conditions shaped their experiences? How did artists depict women practitioners of horticulture and the sites where they marketed, bought, transported, and displayed such plants? What cultural beliefs do their images convey about women who moved plants? What types of plants do they represent and what meanings does that horticultural imagery hold? And lastly, what possibilities do the digital humanities open for studying gendered spatial practices in art, society, and plant culture?
+This painting of an itinerant flower seller who markets a bouquet to a pedestrian-shopper and her lady’s maid, for example, raises vital questions about the gender-historical issue of mobility.[^6] To what degree did actual women participate in supplying and distributing real plants in 1870s Paris? Where did they do so, and what social, cultural, and economic conditions shaped their experiences? How did artists depict women practitioners of horticulture and the sites where they marketed, bought, transported, and displayed such plants? What cultural beliefs do their images convey about women who moved plants? What types of plants do they represent and what meanings does that horticultural imagery hold? And lastly, what possibilities do the digital humanities open for studying gendered spatial practices in art, society, and plant culture?
 <param ve-image 
        label="Marie-François Firmin-Girard, The Flower Seller on the Pont Royal with the Louvre beyond, Paris, 1872, oil on canvas, 69.8 × 93.9 cm" 
        attribution="Austriacus, Wikimedia Commons"
@@ -53,3 +53,8 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 ## References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^2]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^3]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^4]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^5]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^6]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
