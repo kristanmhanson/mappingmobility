@@ -10,9 +10,9 @@
 
 ### Tackling A Thorny Issue
 
-Mobility or the degree to which certain kinds of women were, or were not, able to walk freely in public is a central issue of gender history. It is also an especially thorny one for historians who study cultural representations of modern women city dwellers that were produced in Western Europe during the second half of the nineteenth century. During that period, a patriarchal ideology of separate spheres deemed it proper for genteel white women of the upper-middle classes to spend their days confined within the domestic realm and for men to participate in and even be free to roam about the public one.
+Mobility or the degree to which certain kinds of women were, or were not, able to walk freely in public is a central issue of gender history. It is also an especially thorny one for historians who study cultural representations of modern women city dwellers that were produced in Western Europe during the second half of the nineteenth century. During that period, a patriarchal ideology of separate spheres deemed it proper for genteel white women of the upper-middle classes to spend their days confined within the domestic realm and men to participate in and even freely roam about the public one.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/CAR/aze_carg034866_001.jpg?itok=1VBO4WK_">
        {#paragraph1}
 
 Although present-day historians agree that that dichotomous paradigm fails to account for the varied experiences of real women and the rich meanings of their portrayals in art, literature, and culture, it nevertheless holds enduring significance for our understanding of the past. That is so because there are few surviving firsthand accounts of walking that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities offer innovative tools for using qualitative historical data to generate visualizations and such interactive mappings can provide, as I will show, an exciting new framework to study art, gendered spatial practices, and plant distribution networks.
