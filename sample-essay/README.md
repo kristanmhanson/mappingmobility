@@ -22,12 +22,12 @@ Although present-day historians agree that that dichotomous paradigm fails to ac
 
 ### Mobility in Parisian Art of the 1870s
 
-In this paper, I will present a project that uses historical geocoding and digital mapping to explore the gender-historical issue of mobility as it relates to Parisian art, society, and plant culture. The project maps the locations shown in paintings of Parisian women, ornamental plants, and urban spaces and those of flower markets and florist shops published in print sources. These maps visualize sites where an all-female labor force distributed and then sold fresh flora to a mostly female clientele who transported it to domestic and other spaces. My discussion of the project will clarify how paintings and maps chart an expanded field of mobility for women who moved plants. It will also propose a new rhizomatic model for studying gendered spatial practices that is structured by the same logic as the centrifugal urban plan and open grid of Paris.[^1]
+My concern here is with the gender-historical issue of mobility as it pertains to visual representations of modern women who are shown transporting bouquets, fresh cut flowers, and potted plants in Parisian urban spaces.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
        {#paragraph3}
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
