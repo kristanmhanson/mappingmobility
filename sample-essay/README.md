@@ -41,7 +41,7 @@ In the 1870s and 1880s, the flower seller’s favored customers were upper-middl
        url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
 {#paragraph4}
 
-* To what degree did actual women engage in practices of horticultural labor and leisure in 1870s Paris?
+Some of these questions are as follows: * To what degree did actual women engage in practices of horticultural labor and leisure in 1870s Paris?
 * In which areas of the city were women known to do so? How did artists depict such women and real sites?
 * Which ornamental plants are represented and what meanings does that botanical imagery hold?
 * And how can we use such images in tandem with historical data to reconstruct the mobility of women who transported plants within horticultural distribution networks?
