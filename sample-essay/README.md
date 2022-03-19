@@ -33,7 +33,14 @@ My concern here is with the gender-historical issue of mobility as it pertains t
 <param ve-entity title="Marie-François Firmin-Girard" eid="Q3083556"> 
        {#paragraph3}
 
-In the 1870s and 1880s, the flower seller’s favored customers were upper-middle class women, like the one Firmin-Girard represented in another of his paintings.[^7] In this one, from 1872, the <span data-click-image-zoomto="1310,562,1488,1202">peddler</span> markets a mixed-species bouquet directly to a <span data-click-image-zoomto="151,472,1488,1202">genteel pedestrian-shopper</span> who, perhaps in mourning attire, is accompanied by her maid. The painting and etching are among a group of selected images that raise key questions about the gender-historical issue of mobility. 
+In the 1870s and 1880s, the flower seller’s favored customers were upper-middle class women, like the one Firmin-Girard represented in another of his paintings.[^7] In this one, from 1872, the <span data-click-image-zoomto="1310,562,1488,1202">peddler</span> markets a mixed-species bouquet directly to a <span data-click-image-zoomto="151,472,1488,1202">genteel pedestrian-shopper</span> who, perhaps in mourning attire, is accompanied by her maid. The painting and etching are among a group of selected images that raise key questions about the gender-historical issue of mobility.
+<param ve-image 
+       label="Marie-François Firmin-Girard, The Flower Seller on the Pont Royal with the Louvre beyond, Paris, 1872, oil on canvas, 69.8 × 93.9 cm" 
+       attribution="Austriacus, Wikimedia Commons"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
+{#paragraph4}
+
 * To what degree did actual women engage in practices of horticultural labor and leisure in 1870s Paris?
 * In which areas of the city were women known to do so? How did artists depict such women and real sites?
 * Which ornamental plants are represented and what meanings does that botanical imagery hold?
@@ -43,7 +50,7 @@ In the 1870s and 1880s, the flower seller’s favored customers were upper-middl
        attribution="Austriacus, Wikimedia Commons"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Marie-Fran%C3%A7ois_Firmin-Girard_-_Flower_Seller_on_the_Pont_Royal%2C_1872.jpg">
-{#paragraph4}
+{#paragraph5}
 
 ### Multiple viewers
 
@@ -52,12 +59,12 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
-{#paragraph5}
+{#paragraph6}
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
-{#paragraph6}
+{#paragraph7}
 
 ## References
 
