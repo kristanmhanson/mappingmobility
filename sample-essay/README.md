@@ -12,19 +12,17 @@
 
 Mobility or the degree to which certain kinds of women were, or were not, able to walk freely in public is a central issue of gender history.[^1] It is also an especially thorny issue for historians who study cultural representations of modern women city dwellers that were produced in Western Europe during the second half of the nineteenth century.[^2] During that period, a patriarchal ideology of separate spheres deemed it appropriate for genteel white women to spend most of their daily lives in the domestic realm and conversely, for men to oversee, participate in, and even roam freely about the public one.
 <param ve-image region="1067,1543,2040,1876" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84581090/manifest.json">
-<param ve-map center="Q590441" zoom="15" label="boulevard des Capucines">
 {#paragraph1}
 
 Present-day historians agree, however, that this dichotomous paradigm fails to account for the varied experiences of real women.[^3] Nor can it account, as they maintain, for the rich meanings of artistic, literary, or cultural engagements with women’s mobility. Yet the separate spheres model still holds enduring significance for our understanding of the past. That is so in part because there are few surviving firsthand accounts of walking in the city that were authored by women, especially those who were poor or working class, or members of marginalized groups. Given the scarcity of such primary sources, the digital humanities can offer new approaches for using qualitative open-source data to enrich the study of art that visually articulates cultural beliefs about gender and mobility.[^4]
 <param ve-image region="1090,1437,2209,2030" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458118z/manifest.json">
-<param ve-map center="Q1543046" zoom="15" label="Boulevards of Paris">
 {#paragraph2}
 
 ### Mobility in Parisian Art
 
 My concern here is with the gender-historical issue of mobility as it pertains to late nineteenth-century visual representations of modern women who are shown at real Parisian sites.[^5] More specifically, such images portray women with easily-transportable bouquets, fresh cut flowers, or potted shrubs in order to examine the role of gendered spatial practices in the distribution of commercial plants from sites of horticultural labor to the domestic realm. An 1872 engraving after a painting by Marie-François Firmin-Girard, for instance, depicts an itinerant flower seller who pushes a cart loaded with seasonal blooms through the streets of Paris. Historically, this kind of street vendor was a gendered and classed Parisian trade, and she was known for using a familiar cry to market fresh flowers directly to other women for wearing, decorating the home, presenting as gifts, or laying in churches or at cemetaries.[^6]
 <param ve-image fit="contain"
-        label="Charles Maurand, after Marie-François Firmin-Girard, The Flower Seller, 1872, engraving, 17.3 × 24.3 cm, after a painting exhibited at the Salon of 1872"
+        label="Charles Maurand, The Flower Seller, 1872, engraving, 17.3 × 24.3 cm, after a painting by Marie-François Firmin-Girard exhibited at the Salon of 1872"
        attribution="Musée Carnavalet, Histoire de Paris"
        license="Creative Commons Zero (CCØ)"
        url="https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/aze_carg034866_001.jpg?itok=qN2G-iUj">
