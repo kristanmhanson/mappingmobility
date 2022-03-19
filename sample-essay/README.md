@@ -20,7 +20,7 @@ Present-day historians agree, however, that this dichotomous paradigm fails to a
 
 ### Mobility in Parisian Art
 
-My concern here is with the gender-historical issue of mobility as it pertains to late nineteenth-century visual representations of modern women who are shown with easily-transportable bouquets, fresh cut flowers, or potted plants at real Parisian sites.[^4][^5]
+My concern here is with the gender-historical issue of mobility as it pertains to late nineteenth-century visual representations of modern women who are shown with easily-transportable bouquets, fresh cut flowers, or potted plants at real Parisian sites.[^5]
 <param ve-image fit="contain"
         label="Charles Maurand, after Marie-François Firmin-Girard, The Flower Seller, 1872, engraving, 17.3 × 24.3 cm, after a painting exhibited at the Salon of 1872" 
        attribution="Musée Carnavalet, Histoire de Paris"
