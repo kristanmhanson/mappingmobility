@@ -11,7 +11,7 @@
 ### Tackling A Thorny Issue
 
 Mobility or the degree to which certain kinds of women were, or were not, able to walk freely in public is a central issue of gender history. It is also an especially thorny one for historians who study cultural representations of modern women city dwellers that were produced in Western Europe during the second half of the nineteenth century. During that period, a patriarchal ideology of separate spheres deemed it proper for genteel white women of the upper-middle classes to spend their days confined within the domestic realm and men to participate in and even freely roam about the public one.
-<param ve-image 
+<param ve-image fit="contain"
        url="https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/CAR/aze_carg034866_001.jpg?itok=1VBO4WK_">
        {#paragraph1}
 
