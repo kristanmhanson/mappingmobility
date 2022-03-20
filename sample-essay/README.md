@@ -42,7 +42,7 @@ In the 1870s and 1880s, the flower seller’s favored customers were upper-middl
 {#paragraph4}
 
 These questions are as follows: To what extent did actual women engage in horticultural labor and leisure in 1870s Paris? In which areas of the city did women market, grow, arrange, and display ornamental plants? How did certain artists of modern life explore this convergence of women, plants, and urban sites? Which individual plants did artists represent and what were their use, value, and meaning? And most importantly, how can we use such images along with geohistorical data and other primary sources to chart the mobility of women who transported plants in the city?
-<param ve-iframe rotate="90" src="https://books.google.com/books?id=W4_DIzqJ7-UC&newbks=0&dq=Le%20Monde%20Illustre%3A%20Journal%20Hebdomadaire%20Salon%20de%201874&pg=PA320&output=embed">
+<param ve-image rotate="90" url="https://books.google.com/books/content?id=W4_DIzqJ7-UC&pg=PA320&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U22lrLNCkNN0kQvQouKTONujEMyxw&ci=13%2C1%2C933%2C1431&edge=0">
 {#paragraph5}
 
 ### Under Construction
